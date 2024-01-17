@@ -1,0 +1,71 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center ;
+}
+.img1{
+    width: 100px;   
+    position: relative;
+    left: 25px;
+
+}
+.lupa{
+    width: 20px;
+
+}
+.lorem{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    left: 100px;
+}
+.poisk{
+    width: 400px;
+    height: 25px;
+    border: none;
+    
+}
+.img2{
+    width: 1200px;
+
+}
+
+.img3{
+    width: 150px;
+    
+    border-radius: 10px;
+}
+.lorem1{
+    position: relative;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 2px;
+}
+.p_lupa{
+    display: flex;
+    align-items: center;
+    border: 1px solid gray;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 5px;
+}
+.img_lor{
+    display: flex;
+
+}
+.img_lorr{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+    margin: 10px;
+    
+}
+.main-main{
+    display: flex;
+    flex-direction: row;
+    
+}
+
